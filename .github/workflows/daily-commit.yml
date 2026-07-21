@@ -2,8 +2,8 @@ name: LeetCode Daily Commit
 
 on:
   schedule:
-    # Runs at 00:05 UTC every day
-    - cron: '5 0 * * *'
+    # Runs daily at 2:30 PM IST (09:00 UTC)
+    - cron: '0 9 * * *'
   workflow_dispatch: # Allows manual triggering from the Actions tab
 
 jobs:

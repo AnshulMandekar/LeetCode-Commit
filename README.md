@@ -3,7 +3,7 @@
 An automated repository that fetches, solves (where possible), and commits the LeetCode **Question of the Day** in C++ every day.
 
 ## How It Works
-1. **Trigger:** A GitHub Actions workflow runs every day at `00:05 UTC` (and can also be triggered manually).
+1. **Trigger:** A GitHub Actions workflow runs every day at `2:30 PM IST (09:00 UTC)` (and can also be triggered manually).
 2. **Fetch:** A Python script queries the LeetCode GraphQL API to obtain the details of the active Daily Coding Challenge.
 3. **Solve:** The script attempts to find a matching C++ solution from [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions). 
    - *If found:* The solution code is saved.
