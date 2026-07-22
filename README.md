@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-07-22 | 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | 🔴 Hard | ✅ Solved | [Solution](problems/2026-07-22-maximize-active-section-with-trade-ii.cpp) |
+
 | 2026-07-21 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-07-21-maximize-active-section-with-trade-i.cpp) |
 
 <!-- LEETCODE_LIST_END -->
