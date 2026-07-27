@@ -18,6 +18,16 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-07-26 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-07-26-maximum-product-of-three-numbers.cpp) |
+
+| 2026-07-25 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-07-25-maximum-product-of-two-digits.cpp) |
+
+| 2026-07-24 | 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-07-24-number-of-unique-xor-triplets-ii.cpp) |
+
+| 2026-07-23 | 3513 | [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-07-23-number-of-unique-xor-triplets-i.cpp) |
+
+| 2026-07-22 | 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | 🔴 Hard | ✅ Solved | [Solution](problems/2026-07-22-maximize-active-section-with-trade-ii.cpp) |
+
 | 2026-07-21 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-07-21-maximize-active-section-with-trade-i.cpp) |
 
 <!-- LEETCODE_LIST_END -->
