@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-07-27 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-07-27-maximum-product-of-two-elements-in-an-array.cpp) |
+
 | 2026-07-26 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-07-26-maximum-product-of-three-numbers.cpp) |
 
 | 2026-07-25 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-07-25-maximum-product-of-two-digits.cpp) |
