@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-07-29 | 3518 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | 🔴 Hard | ✅ Solved | [Solution](problems/2026-07-29-smallest-palindromic-rearrangement-ii.cpp) |
+
 | 2026-07-28 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-07-28-smallest-palindromic-rearrangement-i.cpp) |
 
 | 2026-07-27 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-07-27-maximum-product-of-two-elements-in-an-array.cpp) |
