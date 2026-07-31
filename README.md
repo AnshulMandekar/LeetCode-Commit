@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-07-31 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-07-31-minimum-number-of-pushes-to-type-word-ii.cpp) |
+
 | 2026-07-30 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-07-30-minimum-number-of-pushes-to-type-word-i.cpp) |
 
 | 2026-07-29 | 3518 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | 🔴 Hard | ✅ Solved | [Solution](problems/2026-07-29-smallest-palindromic-rearrangement-ii.cpp) |
