@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-08-03 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | 🔴 Hard | ✅ Solved | [Solution](problems/2026-08-03-stone-game-iii.cpp) |
+
 | 2026-08-02 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-08-02-stone-game.cpp) |
 
 | 2026-08-01 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-08-01-predict-the-winner.cpp) |
