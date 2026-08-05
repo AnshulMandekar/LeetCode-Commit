@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-08-05 | 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-08-05-remove-methods-from-project.cpp) |
+
 | 2026-08-04 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-08-04-find-missing-elements.cpp) |
 
 | 2026-08-03 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | 🔴 Hard | ✅ Solved | [Solution](problems/2026-08-03-stone-game-iii.cpp) |
