@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-08-06 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-08-06-smallest-divisible-digit-product-i.cpp) |
+
 | 2026-08-05 | 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-08-05-remove-methods-from-project.cpp) |
 
 | 2026-08-04 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-08-04-find-missing-elements.cpp) |
