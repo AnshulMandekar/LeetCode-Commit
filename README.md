@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-08-09 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-08-09-stone-game-ii.cpp) |
+
 | 2026-08-08 | 3302 | [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-08-08-find-the-lexicographically-smallest-valid-sequence.cpp) |
 
 | 2026-08-07 | 3348 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | 🔴 Hard | ✅ Solved | [Solution](problems/2026-08-07-smallest-divisible-digit-product-ii.cpp) |
