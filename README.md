@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-08-11 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-08-11-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp) |
+
 | 2026-08-10 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | 🔴 Hard | ✅ Solved | [Solution](problems/2026-08-10-stone-game-iv.cpp) |
 
 | 2026-08-09 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-08-09-stone-game-ii.cpp) |
