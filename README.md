@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-08-14 | 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-08-14-maximum-length-substring-with-two-occurrences.cpp) |
+
 | 2026-08-13 | 2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | 🔴 Hard | ✅ Solved | [Solution](problems/2026-08-13-longest-substring-of-one-repeating-character.cpp) |
 
 | 2026-08-12 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-08-12-length-of-longest-subarray-with-at-most-k-frequency.cpp) |
