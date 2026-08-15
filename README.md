@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-08-15 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-08-15-longest-subsequence-with-non-zero-bitwise-xor.cpp) |
+
 | 2026-08-14 | 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-08-14-maximum-length-substring-with-two-occurrences.cpp) |
 
 | 2026-08-13 | 2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | 🔴 Hard | ✅ Solved | [Solution](problems/2026-08-13-longest-substring-of-one-repeating-character.cpp) |
