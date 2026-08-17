@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-08-17 | 1563 | [Stone Game V](https://leetcode.com/problems/stone-game-v/) | 🔴 Hard | ✅ Solved | [Solution](problems/2026-08-17-stone-game-v.cpp) |
+
 | 2026-08-16 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-08-16-stone-game-ix.cpp) |
 
 | 2026-08-15 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-08-15-longest-subsequence-with-non-zero-bitwise-xor.cpp) |
