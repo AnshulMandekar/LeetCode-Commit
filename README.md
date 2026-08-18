@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-08-18 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-08-18-find-the-largest-almost-missing-integer.cpp) |
+
 | 2026-08-17 | 1563 | [Stone Game V](https://leetcode.com/problems/stone-game-v/) | 🔴 Hard | ✅ Solved | [Solution](problems/2026-08-17-stone-game-v.cpp) |
 
 | 2026-08-16 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-08-16-stone-game-ix.cpp) |
