@@ -6,7 +6,7 @@ import html
 from datetime import datetime
 
 # LeetCode GraphQL Endpoint
-LEETCODE_GRAPHQL_URL = "https://leetcode.com/graphql"
+LEETCODE_GRAPHQL_URL = ""
 
 def fetch_daily_challenge():
     """Queries LeetCode GraphQL API for the Question of the Day."""
@@ -116,7 +116,7 @@ def main():
     code_snippets = question.get("codeSnippets", [])
     
     # Format links
-    problem_url = f"https://leetcode.com{link_relative}" if link_relative.startswith("/") else link_relative
+    problem_url = f"" if link_relative.startswith("/") else link_relative
     
     # Get C++ boilerplate snippet
     cpp_snippet = ""
