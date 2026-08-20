@@ -18,6 +18,8 @@ An automated repository that fetches, solves (where possible), and commits the L
 | Date | # | Problem Title | Difficulty | Status | Solution Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
 <!-- LEETCODE_LIST_START -->
+| 2026-08-20 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-08-20-distribute-elements-into-two-arrays-i.cpp) |
+
 | 2026-08-19 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | 🟡 Medium | ✅ Solved | [Solution](problems/2026-08-19-cinema-seat-allocation.cpp) |
 
 | 2026-08-18 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | ✅ Solved | [Solution](problems/2026-08-18-find-the-largest-almost-missing-integer.cpp) |
